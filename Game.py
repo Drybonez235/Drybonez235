@@ -36,4 +36,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	print((Warrior3.name),"has",(Warrior3.health),"health")
 
 	
->>> 
+>>> print (hello)
